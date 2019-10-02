@@ -1,0 +1,6 @@
+{
+    "presets":[
+        ["env", {"modules": false}],
+        ["stage-2"] //adiciona isso aqui depois de instalar o stage 2
+    ]
+}
